@@ -14,9 +14,10 @@ export const Li = styled.li`
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-  border: 1px solid black;
+  justify-content: space-evenly;
+  border: 1px solid teal;
   margin-bottom: 10px;
+  font-weight: 700;
 `;
 
 export const Button = styled.button`
