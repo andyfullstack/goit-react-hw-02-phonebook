@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Ul = styled.ul`
   list-style-type: none;
-  /* margin-top: 20px; */
+  margin-top: 20px;
   padding: 0;
   margin-left: 800px;
 `;
